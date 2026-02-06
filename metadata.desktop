@@ -1,19 +1,19 @@
 [Desktop Entry]
-Comment=archsimpleblue
+Comment=A Red Arch Linux Splashscreen
 
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
-Name=Arch Simple Blue
+Name=Arch Reaper
 
 Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
-X-KDE-PluginInfo-Author=mrmaire(fork:dancp)
+X-KDE-PluginInfo-Author=devlinman
 X-KDE-PluginInfo-Category=
-X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Email=dev.linman.tech@gmail.com
 X-KDE-PluginInfo-License=GNU GPL v3
-X-KDE-PluginInfo-Name=archsimpleblue
+X-KDE-PluginInfo-Name=Arch Reaper
 X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=
 X-KDE-fallbackPackage=org.kde.breeze.desktop
