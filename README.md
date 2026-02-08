@@ -1,4 +1,4 @@
-## Arch Simple Splash Screen
+## Arch Reaper Splash Screen
 A Red Arch Linux Loading Plasma Splashscreen for KDE 6. 
 
 [Originaly from KDE 5 Splash Screen](https://store.kde.org/p/1312961)
@@ -14,3 +14,8 @@ A Red Arch Linux Loading Plasma Splashscreen for KDE 6.
 + Previous authours mentioned in [Authors file](./AUTHORS)
 
 + Licensed under GPLv3, as are the previous versions.
+
+## Install
+
++ Place this folder inside `~/.local/share/plasma/look-and-feel/`
++ Use KDE Settings to choose this as your splash screen.
